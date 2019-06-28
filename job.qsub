@@ -3,6 +3,7 @@
 #$ -j y
 #$ -N example
 #$ -P scv
+#$ -o logd
 
 module load python3
 ## My python example script
