@@ -2,7 +2,7 @@
 
 #$ -j y
 #$ -N example
-#$ -P necs
+#$ -P tutorial
 
 module load python3
 ## My python example script
