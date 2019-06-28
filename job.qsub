@@ -2,7 +2,7 @@
 
 #$ -j y
 #$ -N example
-#$ -P tutorial
+#$ -P scv
 
 module load python3
 ## My python example script
